@@ -1,0 +1,191 @@
+{"event":"message","time":1572385642,"u":"08","run":"0.35","mem":"7.60","data":"Pong! Server replied."}
+{"event":"details","time":1572385650,"u":"27","run":"0.06","mem":"6.74","data":"--- New PHP process."}
+{"event":"details","time":1572385650,"u":"27","run":"0.06","mem":"6.74","data":"Attempted to set PHP execution time to 7200"}
+{"event":"details","time":1572385650,"u":"27","run":"0.06","mem":"6.74","data":"Reported PHP execution time - Configured: 120; Original: 120; Current: 7200"}
+{"event":"details","time":1572385650,"u":"27","run":"0.06","mem":"6.74","data":"Attempted to set PHP memory limit to user defined WP_MAX_MEMORY_LIMIT (768M) or over-ridden value"}
+{"event":"details","time":1572385650,"u":"27","run":"0.06","mem":"6.74","data":"Reported PHP memory limits - Configured: 768M; Original: 768M; Current: 768M"}
+{"event":"message","time":1572385650,"u":"27","run":"0.06","mem":"6.74","data":"Running process for serial `jk6mo8oxbq`..."}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"About to load fileoptions data."}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"Fileoptions instance #39."}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"Created fileoptions lock file `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/pb_backupbuddy\/fileoptions\/jk6mo8oxbq.txt.lock` with ID: 5db8b372449a19.71161189."}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"Fileoptions data loaded."}
+{"event":"finishAction","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"cronPass"}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"Fileoptions saved. 6892 bytes written."}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"Found next step to run: `backup_zip_files`."}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"Peak memory usage: 6.787 MB"}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"-----"}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"Starting step function `backup_zip_files`. Attempt #1."}
+{"event":"startFunction","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"{\"function\":\"backup_zip_files\",\"title\":\"Zipping up files\"}"}
+{"event":"milestone","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"start_files"}
+{"event":"details","time":1572385650,"u":"28","run":"0.06","mem":"6.79","data":"Backup root: `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/`."}
+{"event":"message","time":1572385650,"u":"28","run":"0.07","mem":"6.79","data":"Running standard ZIP system based on settings."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.79","data":"Running under 64-bit PHP"}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.79","data":"Server API: cgi-fcgi"}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.79","data":"Using Best Available zip method based on settings."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.79","data":"Creating ZIP file `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/backup-howlingzoeproductions_com_warrenplans-2019_10_29-09_47pm-full-jk6mo8oxbq.zip`. Adding directory `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/`. Excludes: \/wp-content\/uploads\/backupbuddy_backups\/,\/wp-content\/uploads\/pb_backupbuddy\/,\/importbuddy\/,\/importbuddy.php"}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Trying exec method for ZIP."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Using zip version: 3.0"}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Zip archive creation compression enabled based on settings."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Zip archive creation symbolic links will not be followed based on settings."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Zip archive creation actionable warnings will not be ignored based on settings."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Creating backup exclusions file `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_jk6mo8oxbq\/exclusions.txt`."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Excluding directory `\/wp-content\/uploads\/backupbuddy_backups\/`."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Excluding directory `\/wp-content\/uploads\/pb_backupbuddy\/`."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Omitting exclusion as file\/directory does not currently exist: `\/importbuddy\/`."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Omitting exclusion as file\/directory does not currently exist: `\/importbuddy.php`."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Backup exclusions file created."}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"Using exclusion file `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_jk6mo8oxbq\/exclusions.txt`"}
+{"event":"details","time":1572385650,"u":"28","run":"0.07","mem":"6.91","data":"exec command: zip -r -q -y -lf '\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_jk6mo8oxbq\/temp_zip_exec_log.txt' -li -b '\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_jk6mo8oxbq\/' '\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_jk6mo8oxbq\/backup-howlingzoeproductions_com_warrenplans-2019_10_29-09_47pm-full-jk6mo8oxbq.zip' . -x@'\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_jk6mo8oxbq\/exclusions.txt'"}
+{"event":"details","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Zip process exit code: 0"}
+{"event":"details","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Zip process reported: 0 warnings"}
+{"event":"details","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Moving Zip Archive file to local archive directory."}
+{"event":"details","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Zip Archive file moved to local archive directory."}
+{"event":"message","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Zip Archive file successfully created with no errors or actionable warnings."}
+{"event":"details","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Zip Archive file size: 28604661 bytes, owned by user:group 745:745 with permissions 0600"}
+{"event":"details","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Removing temporary directory."}
+{"event":"details","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"The exec method for ZIP was successful."}
+{"event":"message","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Backup ZIP file successfully created."}
+{"event":"details","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Chmod of ZIP file to 0644 succeeded."}
+{"event":"details","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"Saving meta data to zip comment."}
+{"event":"startAction","time":1572385657,"u":"11","run":"6.89","mem":"6.91","data":"zipCommentMeta"}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"exec (zip) set comment in file \/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/backup-howlingzoeproductions_com_warrenplans-2019_10_29-09_47pm-full-jk6mo8oxbq.zip"}
+{"event":"finishAction","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"zipCommentMeta"}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Saved meta data to zip comment."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Database kicker loaded. Database object class: `wpdb` with database of type `mysqli`."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Pinging mysqli."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Database Server connection status verified."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Fileoptions saved. 6904 bytes written."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Finished function `backup_zip_files`. Peak memory usage: 6.909 MB with BackupBuddy v5.1.0.7"}
+{"event":"finishFunction","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"{\"function\":\"backup_zip_files\"}"}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"-----"}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Scheduling Cron for `jk6mo8oxbq`."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Database kicker loaded. Database object class: `wpdb` with database of type `mysqli`."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Pinging mysqli."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Database Server connection status verified."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Scheduling next step to run at `1572385657` (localized time: Oct 29, 2019 9:47:37 pm) with cron tag `pb_backupbuddy_process_backup` and serial arguments `jk6mo8oxbq`."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Next step scheduled."}
+{"event":"startAction","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"cronPass"}
+{"event":"cronParams","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"eyJ0aW1lIjoxNTcyMzg1NjU3LCJ0YWciOiJwYl9iYWNrdXBidWRkeV9wcm9jZXNzX2JhY2t1cCIsImFyZ3MiOlsiams2bW84b3hicSJdfQ=="}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Calling spawn_cron()."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"About to run next step. If the backup does not proceed within 15 seconds then something is interfering with the WordPress CRON system such as: server loopback issues, caching plugins, or scheduling plugins. Try disabling other plugins to see if it resolves issue.  Check the Server Information page cron section to see if the next BackupBuddy step is scheduled to run. Enable \"Classic\" backup mode on the \"Settings\" page to rule out non-cron issues."}
+{"event":"details","time":1572385657,"u":"19","run":"6.98","mem":"6.91","data":"Completed step function `backup_zip_files`."}
+{"event":"details","time":1572385664,"u":"13","run":"0.06","mem":"6.74","data":"--- New PHP process."}
+{"event":"details","time":1572385664,"u":"13","run":"0.06","mem":"6.74","data":"Attempted to set PHP execution time to 7200"}
+{"event":"details","time":1572385664,"u":"13","run":"0.06","mem":"6.74","data":"Reported PHP execution time - Configured: 120; Original: 120; Current: 7200"}
+{"event":"details","time":1572385664,"u":"13","run":"0.06","mem":"6.74","data":"Attempted to set PHP memory limit to user defined WP_MAX_MEMORY_LIMIT (768M) or over-ridden value"}
+{"event":"details","time":1572385664,"u":"13","run":"0.06","mem":"6.74","data":"Reported PHP memory limits - Configured: 768M; Original: 768M; Current: 768M"}
+{"event":"message","time":1572385664,"u":"13","run":"0.06","mem":"6.74","data":"Running process for serial `jk6mo8oxbq`..."}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"About to load fileoptions data."}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"Fileoptions instance #39."}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"Created fileoptions lock file `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/pb_backupbuddy\/fileoptions\/jk6mo8oxbq.txt.lock` with ID: 5db8b380233385.46073398."}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"Fileoptions data loaded."}
+{"event":"finishAction","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"cronPass"}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"Fileoptions saved. 6916 bytes written."}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"Found next step to run: `integrity_check`."}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"Peak memory usage: 6.787 MB"}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"-----"}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"Starting step function `integrity_check`. Attempt #1."}
+{"event":"startFunction","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"{\"function\":\"integrity_check\",\"title\":\"Verifying backup file integrity\"}"}
+{"event":"milestone","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"start_integrity"}
+{"event":"message","time":1572385664,"u":"14","run":"0.07","mem":"6.79","data":"Scanning and verifying backup file integrity."}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.99","data":"Started backup_integrity_check() function."}
+{"event":"details","time":1572385664,"u":"14","run":"0.07","mem":"6.99","data":"Verifying comment in zip archive."}
+{"event":"details","time":1572385664,"u":"15","run":"0.08","mem":"6.99","data":"exec (unzip) retrieved comment in file \/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/backup-howlingzoeproductions_com_warrenplans-2019_10_29-09_47pm-full-jk6mo8oxbq.zip"}
+{"event":"details","time":1572385664,"u":"15","run":"0.08","mem":"6.99","data":"NOTE: It is normal to see several \"File not found\" messages in the next several log lines."}
+{"event":"details","time":1572385664,"u":"15","run":"0.08","mem":"6.99","data":"Verifying DAT file in zip archive."}
+{"event":"details","time":1572385664,"u":"16","run":"0.08","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/backupbuddy_dat.php"}
+{"event":"details","time":1572385664,"u":"16","run":"0.09","mem":"6.99","data":"File not found (exec): wp-content\/uploads\/temp_jk6mo8oxbq\/backupbuddy_dat.php"}
+{"event":"details","time":1572385664,"u":"17","run":"0.10","mem":"6.99","data":"File not found (exec): backupbuddy_dat.php"}
+{"event":"details","time":1572385664,"u":"17","run":"0.10","mem":"6.99","data":"Verifying database SQL file in zip archive."}
+{"event":"details","time":1572385664,"u":"17","run":"0.10","mem":"6.99","data":"Forcing to a single db_1.sql file was NOT enabled for this backup."}
+{"event":"details","time":1572385664,"u":"17","run":"0.10","mem":"6.99","data":"BackupBuddy v5.0+ format database datected."}
+{"event":"details","time":1572385664,"u":"17","run":"0.10","mem":"6.99","data":"Not database-only type backup."}
+{"event":"details","time":1572385664,"u":"18","run":"0.10","mem":"6.99","data":"File not found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/db_1.sql"}
+{"event":"details","time":1572385664,"u":"18","run":"0.11","mem":"6.99","data":"PHP based database dump type."}
+{"event":"details","time":1572385664,"u":"19","run":"0.11","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_ajaxsearchpro.sql"}
+{"event":"details","time":1572385664,"u":"19","run":"0.12","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_ajaxsearchpro_priorities.sql"}
+{"event":"details","time":1572385664,"u":"20","run":"0.13","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_ajaxsearchpro_statistics.sql"}
+{"event":"details","time":1572385664,"u":"21","run":"0.14","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_asp_index.sql"}
+{"event":"details","time":1572385664,"u":"22","run":"0.15","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_asp_synonyms.sql"}
+{"event":"details","time":1572385664,"u":"23","run":"0.15","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_commentmeta.sql"}
+{"event":"details","time":1572385664,"u":"23","run":"0.16","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_comments.sql"}
+{"event":"details","time":1572385664,"u":"24","run":"0.17","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_gf_draft_submissions.sql"}
+{"event":"details","time":1572385664,"u":"25","run":"0.18","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_gf_entry.sql"}
+{"event":"details","time":1572385664,"u":"26","run":"0.19","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_gf_entry_meta.sql"}
+{"event":"details","time":1572385664,"u":"27","run":"0.19","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_gf_entry_notes.sql"}
+{"event":"details","time":1572385664,"u":"28","run":"0.20","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_gf_form.sql"}
+{"event":"details","time":1572385664,"u":"28","run":"0.21","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_gf_form_meta.sql"}
+{"event":"details","time":1572385664,"u":"29","run":"0.22","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_gf_form_revisions.sql"}
+{"event":"details","time":1572385664,"u":"30","run":"0.23","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_gf_form_view.sql"}
+{"event":"details","time":1572385664,"u":"31","run":"0.24","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_gf_rest_api_keys.sql"}
+{"event":"details","time":1572385664,"u":"32","run":"0.24","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_links.sql"}
+{"event":"details","time":1572385664,"u":"33","run":"0.26","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_options.sql"}
+{"event":"details","time":1572385664,"u":"34","run":"0.27","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_postmeta.sql"}
+{"event":"details","time":1572385664,"u":"37","run":"0.29","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_posts.sql"}
+{"event":"details","time":1572385664,"u":"38","run":"0.30","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_term_relationships.sql"}
+{"event":"details","time":1572385664,"u":"38","run":"0.31","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_term_taxonomy.sql"}
+{"event":"details","time":1572385664,"u":"39","run":"0.32","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_termmeta.sql"}
+{"event":"details","time":1572385664,"u":"40","run":"0.33","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_terms.sql"}
+{"event":"details","time":1572385664,"u":"41","run":"0.34","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_usermeta.sql"}
+{"event":"details","time":1572385664,"u":"42","run":"0.34","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_users.sql"}
+{"event":"details","time":1572385664,"u":"42","run":"0.35","mem":"6.99","data":"File found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp_yarpp_related_cache.sql"}
+{"event":"details","time":1572385664,"u":"43","run":"0.35","mem":"6.99","data":"Verifying WordPress wp-config.php configuration file in zip archive."}
+{"event":"details","time":1572385664,"u":"43","run":"0.36","mem":"6.99","data":"File found (exec): wp-config.php"}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"File not found (exec): wp-content\/uploads\/backupbuddy_temp\/jk6mo8oxbq\/wp-config.php"}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Retrieving zip scan log."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Calculating integrity scan status,"}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Status: `Pass`. Description: ``."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Getting file details such as size, timestamp, etc."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Saving backup file integrity check details."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Fileoptions saved. 7644 bytes written."}
+{"event":"milestone","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"finish_integrity"}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Fileoptions saved. 7656 bytes written."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Finished function `integrity_check`. Peak memory usage: 6.991 MB with BackupBuddy v5.1.0.7"}
+{"event":"finishFunction","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"{\"function\":\"integrity_check\"}"}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"-----"}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Scheduling Cron for `jk6mo8oxbq`."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Database kicker loaded. Database object class: `wpdb` with database of type `mysqli`."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Pinging mysqli."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Database Server connection status verified."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Scheduling next step to run at `1572385664` (localized time: Oct 29, 2019 9:47:44 pm) with cron tag `pb_backupbuddy_process_backup` and serial arguments `jk6mo8oxbq`."}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Next step scheduled."}
+{"event":"startAction","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"cronPass"}
+{"event":"cronParams","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"eyJ0aW1lIjoxNTcyMzg1NjY0LCJ0YWciOiJwYl9iYWNrdXBidWRkeV9wcm9jZXNzX2JhY2t1cCIsImFyZ3MiOlsiams2bW84b3hicSJdfQ=="}
+{"event":"details","time":1572385664,"u":"44","run":"0.37","mem":"6.99","data":"Calling spawn_cron()."}
+{"event":"details","time":1572385664,"u":"45","run":"0.37","mem":"6.99","data":"About to run next step. If the backup does not proceed within 15 seconds then something is interfering with the WordPress CRON system such as: server loopback issues, caching plugins, or scheduling plugins. Try disabling other plugins to see if it resolves issue.  Check the Server Information page cron section to see if the next BackupBuddy step is scheduled to run. Enable \"Classic\" backup mode on the \"Settings\" page to rule out non-cron issues."}
+{"event":"details","time":1572385664,"u":"45","run":"0.37","mem":"6.99","data":"Completed step function `integrity_check`."}
+{"event":"details","time":1572385667,"u":"35","run":"0.05","mem":"6.74","data":"--- New PHP process."}
+{"event":"details","time":1572385667,"u":"35","run":"0.05","mem":"6.74","data":"Attempted to set PHP execution time to 7200"}
+{"event":"details","time":1572385667,"u":"35","run":"0.05","mem":"6.74","data":"Reported PHP execution time - Configured: 120; Original: 120; Current: 7200"}
+{"event":"details","time":1572385667,"u":"35","run":"0.05","mem":"6.74","data":"Attempted to set PHP memory limit to user defined WP_MAX_MEMORY_LIMIT (768M) or over-ridden value"}
+{"event":"details","time":1572385667,"u":"35","run":"0.05","mem":"6.74","data":"Reported PHP memory limits - Configured: 768M; Original: 768M; Current: 768M"}
+{"event":"message","time":1572385667,"u":"35","run":"0.05","mem":"6.74","data":"Running process for serial `jk6mo8oxbq`..."}
+{"event":"details","time":1572385667,"u":"35","run":"0.06","mem":"6.79","data":"About to load fileoptions data."}
+{"event":"details","time":1572385667,"u":"35","run":"0.06","mem":"6.79","data":"Fileoptions instance #39."}
+{"event":"details","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"Created fileoptions lock file `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/pb_backupbuddy\/fileoptions\/jk6mo8oxbq.txt.lock` with ID: 5db8b38357e2f2.44980827."}
+{"event":"details","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"Fileoptions data loaded."}
+{"event":"finishAction","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"cronPass"}
+{"event":"details","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"Fileoptions saved. 7668 bytes written."}
+{"event":"details","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"Found next step to run: `post_backup`."}
+{"event":"details","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"Peak memory usage: 6.787 MB"}
+{"event":"details","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"-----"}
+{"event":"details","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"Starting step function `post_backup`. Attempt #1."}
+{"event":"startFunction","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"{\"function\":\"post_backup\",\"title\":\"Cleaning up\"}"}
+{"event":"message","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"Cleaning up after backup."}
+{"event":"details","time":1572385667,"u":"36","run":"0.06","mem":"6.79","data":"Removing temp data directory."}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"Trimming old archives (if needed)."}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"Trimmed 0 old archives based on settings archive limits."}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"Final ZIP file size: 27.28 MB"}
+{"event":"archiveSize","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"27.28 MB"}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"Updating statistics for last backup completed and number of edits since last backup."}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"Cleaning up any old temporary zip directories in: wp-content\/uploads\/backupbuddy_temp\/. If no recent backups then the temp directory will also be purged."}
+{"event":"message","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"Finished cleaning up."}
+{"event":"archiveInfo","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"{\"file\":\"backup-howlingzoeproductions_com_warrenplans-2019_10_29-09_47pm-full-jk6mo8oxbq.zip\",\"url\":\"https:\\\/\\\/howlingzoeproductions.com\\\/warrenplans\\\/wp-admin\\\/admin-ajax.php?action=pb_backupbuddy_backupbuddy&function=download_archive&backupbuddy_backup=backup-howlingzoeproductions_com_warrenplans-2019_10_29-09_47pm-full-jk6mo8oxbq.zip\"}"}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"Fileoptions saved. 7688 bytes written."}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"Finished function `post_backup`. Peak memory usage: 6.787 MB with BackupBuddy v5.1.0.7"}
+{"event":"finishFunction","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"{\"function\":\"post_backup\"}"}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"-----"}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"No more backup steps remain. Finishing..."}
+{"event":"details","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"Fileoptions saved. 7700 bytes written."}
+{"event":"startFunction","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"{\"function\":\"backup_success\",\"title\":\"Backup completed successfully.\"}"}
+{"event":"finishFunction","time":1572385667,"u":"36","run":"0.07","mem":"6.79","data":"{\"function\":\"backup_success\"}"}

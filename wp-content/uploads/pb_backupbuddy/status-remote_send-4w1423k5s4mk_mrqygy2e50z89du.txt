@@ -1,0 +1,56 @@
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"----- Initiating master send function for BackupBuddy v8.4.19.0."}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"Basename file: `backup-howlingzoeproductions_com_warrenplans-2019_10_31-03_29pm-full-oqxd1dtkrm.zip`. Post-send deletion: 1"}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"Created fileoptions lock file `send-4w1423k5s4mk.txt.lock` with ID: 5dbb3b85431314.41131136."}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.76","data":"Fileoptions `send-4w1423k5s4mk.txt` saved. 2504 bytes written."}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"Initializing destination."}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"Loading destination init file `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/plugins\/backupbuddy\/destinations\/gdrive\/init.php`."}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"Destination init loaded."}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"Initialized `gdrive` destination."}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"Applying destination-specific defaults."}
+{"event":"details","time":1572551557,"u":"27","run":"0.13","mem":"6.75","data":"Applying global destination defaults."}
+{"event":"details","time":1572551557,"u":"27","run":"0.14","mem":"6.75","data":"Calling destination-specific send method `pb_backupbuddy_destination_gdrive::send`."}
+{"event":"details","time":1572551557,"u":"27","run":"0.14","mem":"6.75","data":"Google Drive send() function started. Settings: `Array\n(\n    [type] => gdrive\n    [title] => My Google Drive\n    [client_id] => 847313967557-7bktd3t8hdb2f4vcfkr2miii093a3fhm.apps.googleusercontent.com\n    [client_secret] => RsdcwZULLIGboK2OgA6wWxed\n    [tokens] => eyJhY2Nlc3NfdG9rZW4iOiJ5YTI5LklsLXBCN29wS0lUTDJud1c5UFdnQVlzQlpZOFlKREpEZG0tU0Q2bThLSHFhNGFJN0hySTNKTHNtZUJmX1p3TTd2cTNERVJyYlRFdGt0TEozNDZLVFlaYnZoMUd6dDFCOGVCaXYtM21hc1NWNGk3LVVJNndTUFhzYTRLZFVSUGNSR2ciLCJleHBpcmVzX2luIjozNjAwLCJyZWZyZXNoX3Rva2VuIjoiMVwvXC8wNEZUcTBOc3hYX0I2Q2dZSUFSQUFHQVFTTndGLUw5SXJZOVlLM21KLXRaXzJEWW1uNkJUV24zZFhBNjRSQkthaEFQYTV5VlhpcXVVNm1fVW9zakhfZk40Y0c5RGFKNU1ldVpJIiwic2NvcGUiOiJodHRwczpcL1wvd3d3Lmdvb2dsZWFwaXMuY29tXC9hdXRoXC9kcml2ZSIsInRva2VuX3R5cGUiOiJCZWFyZXIiLCJjcmVhdGVkIjoxNTcyMzg1OTc4fQ==\n    [folderID] => 1Hgm7eXtAtiHTkkl3JlKYq4kh0B3vgofl\n    [folderTitle] => warrenplans backup\n    [service_account_file] => \n    [service_account_email] => \n    [db_archive_limit] => 10\n    [full_archive_limit] => 4\n    [files_archive_limit] => 4\n    [max_time] => \n    [max_burst] => 25\n    [disable_gzip] => 0\n    [disabled] => 0\n    [_chunks_sent] => 0\n    [_chunks_total] => 0\n    [_media_resumeUri] => \n    [_media_progress] => \n    [themes_archive_limit] => \n    [plugins_archive_limit] => \n    [media_archive_limit] => \n    [disable_file_management] => 0\n    [token] => \n)\n`."}
+{"event":"details","time":1572551557,"u":"27","run":"0.14","mem":"6.75","data":"Tokens need base64 decoded."}
+{"event":"details","time":1572551557,"u":"28","run":"0.14","mem":"7.39","data":"Connecting to Google Drive."}
+{"event":"details","time":1572551557,"u":"28","run":"0.14","mem":"7.39","data":"Setting Google Drive Access Token."}
+{"event":"details","time":1572551557,"u":"28","run":"0.14","mem":"7.39","data":"TOKENS: {\"access_token\":\"ya29.Il-pB7opKITL2nwW9PWgAYsBZY8YJDJDdm-SD6m8KHqa4aI7HrI3JLsmeBf_ZwM7vq3DERrbTEtktLJ346KTYZbvh1Gzt1B8eBiv-3masSV4i7-UI6wSPXsa4KdURPcRGg\",\"expires_in\":3600,\"refresh_token\":\"1\\\/\\\/04FTq0NsxX_B6CgYIARAAGAQSNwF-L9IrY9YK3mJ-tZ_2DYmn6BTWn3dXA64RBKahAPa5yVXiquU6m_UosjH_fN4cG9DaJ5MeuZI\",\"scope\":\"https:\\\/\\\/www.googleapis.com\\\/auth\\\/drive\",\"token_type\":\"Bearer\",\"created\":1572385978}"}
+{"event":"details","time":1572551557,"u":"28","run":"0.14","mem":"7.40","data":"Detecting backup type if possible."}
+{"event":"details","time":1572551557,"u":"28","run":"0.14","mem":"7.40","data":"Detected backup type as `full` via filename."}
+{"event":"details","time":1572551557,"u":"28","run":"0.14","mem":"7.40","data":"About to upload file `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/backup-howlingzoeproductions_com_warrenplans-2019_10_31-03_29pm-full-oqxd1dtkrm.zip` of size `30562158` with mimetype `application\/zip` into folder `1Hgm7eXtAtiHTkkl3JlKYq4kh0B3vgofl`. Internal chunk size of `26214400` bytes."}
+{"event":"details","time":1572551557,"u":"28","run":"0.14","mem":"7.40","data":"File size `29.15 MB` exceeds max burst size `25 MB` so this will be sent in bursts. If time limit nears then send will be chunked across multiple PHP loads."}
+{"event":"details","time":1572551557,"u":"35","run":"0.21","mem":"7.41","data":"Opening file for sending in binary mode."}
+{"event":"details","time":1572551557,"u":"37","run":"0.24","mem":"32.42","data":"Chunk of size `25 MB` read into memory. Total bytes summed: `26214400` of filesize: `30562158`."}
+{"event":"details","time":1572551557,"u":"37","run":"0.24","mem":"32.42","data":"Sending burst file data next. If next message is not \"Burst file data sent\" then the send likely timed out. Try reducing burst size. Sending now..."}
+{"event":"details","time":1572551558,"u":"83","run":"1.69","mem":"32.42","data":"Burst file data sent."}
+{"event":"details","time":1572551558,"u":"83","run":"1.69","mem":"32.42","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1572551558,"u":"83","run":"1.69","mem":"32.42","data":"Total sent: `25 MB`. Speed (per sec): `16.06 MB`. Time Remaining (w\/ wiggle): `112.44375395775`. Size that could potentially be sent with remaining time: `1.76 GB` with chunk size of `25 MB`."}
+{"event":"details","time":1572551558,"u":"83","run":"1.69","mem":"32.42","data":"Not approaching limits."}
+{"event":"details","time":1572551558,"u":"83","run":"1.69","mem":"11.56","data":"Chunk of size `25 MB` read into memory. Total bytes summed: `4347758` of filesize: `30562158`."}
+{"event":"details","time":1572551558,"u":"83","run":"1.69","mem":"11.56","data":"Sending burst file data next. If next message is not \"Burst file data sent\" then the send likely timed out. Try reducing burst size. Sending now..."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.58","data":"Burst file data sent."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.58","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.58","data":"No more data remains (eg for chunking) so finishing up."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.58","data":"Created fileoptions lock file `send-4w1423k5s4mk.txt.lock` with ID: 5dbb3b890a8031.99636012."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.58","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.58","data":"Fileoptions data loaded."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.59","data":"Fileoptions `send-4w1423k5s4mk.txt` saved. 2620 bytes written."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.57","data":"Google Drive database backup archive limit of `4` of type `full` based on destination settings."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.57","data":"Google Drive archive limit enforcement beginning."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.57","data":"Checking archive limits. Attempt 1."}
+{"event":"details","time":1572551561,"u":"04","run":"3.90","mem":"11.57","data":"Tokens do not need base64 decoded. Already done."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"11.63","data":"Google Drive found `4` backups of this type when checking archive limits."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"11.63","data":"Google Drive completed archive limiting."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"7.39","data":"Completed send function. Success."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"7.39","data":"About to load fileoptions data."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"7.39","data":"Fileoptions instance #16."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"7.39","data":"Created fileoptions lock file `send-4w1423k5s4mk.txt.lock` with ID: 5dbb3b8a5e62a8.28092924."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"7.40","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"7.40","data":"Fileoptions data loaded."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"7.40","data":"Post-send deletion enabled."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"7.40","data":"Performing post-send deletion since transfer succeeded."}
+{"event":"details","time":1572551562,"u":"38","run":"5.25","mem":"7.40","data":"Deleting local file `\/home\/customer\/www\/howlingzoeproductions.com\/public_html\/warrenplans\/wp-content\/uploads\/backupbuddy_backups\/backup-howlingzoeproductions_com_warrenplans-2019_10_31-03_29pm-full-oqxd1dtkrm.zip`."}
+{"event":"details","time":1572551562,"u":"39","run":"5.25","mem":"7.40","data":"Deleted local file after successful remote destination send based on settings."}
+{"event":"archiveDeleted","time":1572551562,"u":"39","run":"5.25","mem":"7.40","data":""}
+{"event":"details","time":1572551562,"u":"39","run":"5.25","mem":"7.40","data":"Finished sending email NOT enabled. Skipping."}
+{"event":"details","time":1572551562,"u":"40","run":"5.26","mem":"7.41","data":"Ending send() function pass."}

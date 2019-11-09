@@ -1,0 +1,20 @@
+[Oct 29, 2019 21:54:42 0-error] Error: You have selected to delete backups after sending but did not specify any remote destinations. Click "Add Remote Destination" to select a destination. Error Code: 
+[Nov 5, 2019 20:15:11 0-error] [n1w05jiefu] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Nov 5, 2019 20:15:11 0-error] [n1w05jiefu] Failed function `backup_zip_files`. Backup terminated.
+[Nov 5, 2019 22:17:27 0-error] [dwsf8xf3nc] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Nov 5, 2019 22:17:27 0-error] [dwsf8xf3nc] Failed function `backup_zip_files`. Backup terminated.
+[Nov 6, 2019 23:58:18 0-error] [sb8ns2yv1y] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Nov 6, 2019 23:58:18 0-error] [sb8ns2yv1y] Failed function `backup_zip_files`. Backup terminated.
+[Nov 7, 2019 17:35:24 0-error] [] Scheduled BackupBuddy backup `/home/customer/www/howlingzoeproductions.com/public_html/warrenplans/wp-content/uploads/backupbuddy_backups/backup-howlingzoeproductions_com_warrenplans-2019_11_02-08_26pm-full-dwsf8xf3nc.zip` started `5 days` ago likely timed out. The zip archive creation step appears to have timed out. Try turning off zip compression to significantly speed up the process or exclude large files. Select "View recently made backups" from the BackupBuddy Backups page to find this backup and view its log details and/or manually create a backup to test for problems.
+[Nov 7, 2019 17:35:25 0-error] [] Scheduled BackupBuddy backup `/home/customer/www/howlingzoeproductions.com/public_html/warrenplans/wp-content/uploads/backupbuddy_backups/backup-howlingzoeproductions_com_warrenplans-2019_11_02-07_53pm-db-n1w05jiefu.zip` started `5 days` ago likely timed out. The zip archive creation step appears to have timed out. Try turning off zip compression to significantly speed up the process or exclude large files. Select "View recently made backups" from the BackupBuddy Backups page to find this backup and view its log details and/or manually create a backup to test for problems.
+[Nov 7, 2019 17:35:25 0-error] [] Scheduled BackupBuddy backup `/home/customer/www/howlingzoeproductions.com/public_html/warrenplans/wp-content/uploads/backupbuddy_backups/backup-howlingzoeproductions_com_warrenplans-2019_11_03-07_29pm-db-sb8ns2yv1y.zip` started `4 days` ago likely timed out. The zip archive creation step appears to have timed out. Try turning off zip compression to significantly speed up the process or exclude large files. Select "View recently made backups" from the BackupBuddy Backups page to find this backup and view its log details and/or manually create a backup to test for problems.
+[Nov 8, 2019 18:24:41 0-error] [8obc8cd0fc] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Nov 8, 2019 18:24:41 0-error] [8obc8cd0fc] Failed function `backup_zip_files`. Backup terminated.
+[Nov 8, 2019 18:24:50 0-error] [5r49o6xc3e] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Nov 8, 2019 18:24:50 0-error] [5r49o6xc3e] Failed function `backup_zip_files`. Backup terminated.
+[Nov 8, 2019 18:25:22 0-error] [68gqsxqk2t] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Nov 8, 2019 18:25:22 0-error] [68gqsxqk2t] Failed function `backup_zip_files`. Backup terminated.
+[Nov 8, 2019 18:34:39 0-error] [n1idqwt36d] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Nov 8, 2019 18:34:39 0-error] [n1idqwt36d] Failed function `backup_zip_files`. Backup terminated.
+[Nov 8, 2019 18:37:32 0-error] [0fdrqo6mrt] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Nov 8, 2019 18:37:32 0-error] [0fdrqo6mrt] Failed function `backup_zip_files`. Backup terminated.
