@@ -1,0 +1,2 @@
+# wplans
+install for WP
